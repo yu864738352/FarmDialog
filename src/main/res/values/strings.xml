@@ -1,0 +1,7 @@
+<resources>
+    <string name="photo_page_str">"%1$s / %2$s"</string>
+    <string name="location_address_str">当前定位：%1$s&#160;&#160;%2$s</string>
+    <string name="altitude_title_str">%d米</string>
+    <string name="cancel_str">取消</string>
+    <string name="sure_str">确认</string>
+</resources>

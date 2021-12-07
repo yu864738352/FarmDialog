@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_color">#F9F9FA</color>
+    <color name="white">#ffffff</color>
+    <color name="basic_refresh_color">#666666</color>
+    <color name="transparent">#00000000</color>
+    <color name="color_66eab5">#66EAB5</color>
+    <color name="color_6ae2c0">#6AE2C0</color>
+    <color name="color_555555">#555555</color>
+    <!-- 灰色-->
+    <color name="color_g1">#262626</color>  <!--常用位置:重要内容标题等-->
+    <color name="color_g2">#7B7B7B</color>  <!--常用位置:辅助内容-->
+    <color name="color_g3">#BABABA</color>  <!--常用位置:次要内容，不可点-->
+    <color name="color_g4">#CED0D6</color>  <!--常用位置:分割线-->
+    <color name="color_g5">#F1F1F1</color>  <!--常用位置:界面底层颜色-->
+    <color name="color_g6">#F5F5F5</color> <!--常用位置:区隔用颜色-->
+    <color name="color_g7">#2B2C2E</color>
+    <color name="color_00A374">#00A374</color>
+    <color name="color_e6e6e6">#e6e6e6</color>
+    <color name="color_f8f9f9">#F8F9F9</color>
+    <color name="color_f9f9fa">#F9F9FA</color>
+    <!--彩色-->
+    <color name="color_c1">#00A374</color> <!-- 主题-->
+    <color name="color_30c1">#3000A374</color> <!-- 主题-->
+    <color name="color_c2">#DF2F0C</color> <!--小红点/警告-->
+    <color name="color_c3">#3AA7FF</color> <!--辅助色-->
+    <color name="color_c4">#CCFFC623</color>
+    <color name="color_c5">#F7B500</color>
+    <color name="color_00DD85">#00DD85</color>
+    <color name="color_06D096">#06D096 </color>
+    <color name="line_divider">#E6E6E6</color>
+    <color name="gap_divider">#F9F9FA</color>
+    <color name="bg_lucency">#ffffffff</color>
+
+    <color name="title_divider_color">#CED0D6</color> <!--标题底部分割线-->
+
+    <color name="color_9ADAC8">#9ADAC8 </color>
+    <color name="edit_title_color">#262626</color> <!-- 输入框的标题颜色-->
+    <color name="edit_hint_color">#7B7B7B</color> <!--提示栏-->
+    <color name="edit_line_color">#CED0D6</color> <!--输入框 线颜色-->
+    <color name="edit_error_line_color">#DF2F0C</color> <!-- 错误线颜色 -->
+    <color name="edit_title_need_color">#DF2F0C</color> <!-- 必填项的颜色-->
+    <color name="edit_error_tip_color">#DF2F0C</color> <!--错误提示文字颜色-->
+    <color name="edit_color">#7B7B7B</color> <!-- 输入颜色-->
+    <color name="color_e02020">#E02020</color>
+    <color name="color_fdf2f2">#FDF2F2</color>
+    <color name="color_fa6400">#fa6400</color>
+    <color name="color_222222">#222222</color>
+    <color name="color_f3fBf8">#F3FBF8</color>
+    <color name="color_f5fbff">#F5FBFF</color>
+    <color name="color_fff6f0">#FFF6F0</color>
+</resources>
